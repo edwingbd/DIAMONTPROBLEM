@@ -7,7 +7,7 @@ public class Test {
 		D objectD = new D();
 		objectD.method();
 		objectD.callmethod();
-		objectD.methodC2();
+		//objectD.methodC2();
 	}
 
 }
